@@ -125,3 +125,5 @@ def menu_principal():
             print('Essa opção não existe!')
 
 menu_principal()
+
+print('Teste')
